@@ -1,0 +1,6 @@
+{
+  "name": "SVM Codex Code Transpiler and Executor",
+  "description": "An interactive polyglot coding playground to transpile and run code across 30 languages with real-time AI-powered code auditing, diagnostic feedback, and auto-fixing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
